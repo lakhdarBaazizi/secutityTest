@@ -1,2 +1,0 @@
-level 1 : set just email and password
-level 2 : database enacryption
